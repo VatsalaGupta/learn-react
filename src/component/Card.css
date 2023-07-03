@@ -1,0 +1,25 @@
+
+/* .card-text{
+    margin: 20px;
+} */
+.price{
+  padding-top: 4px;    
+}
+.Description{
+  padding-left: 4px;
+}
+.card-img-top{
+  height: 200px;
+}
+.App{
+  background-color: aqua;
+  font: bold;
+  color: rgb(30, 39, 210);
+  margin-top: 8px;
+}
+.MainCard{
+  padding-top: 20px;
+}
+.col-sm{
+  padding-top: 20px;
+}
